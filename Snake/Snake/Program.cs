@@ -14,7 +14,7 @@
             int y2 = 5;
             char sym2 = '#';
 
-            Draw(x2, y2, sym2); 
+            Draw(x2, y2, sym2); //sss
 
             Console.ReadLine();
         }
